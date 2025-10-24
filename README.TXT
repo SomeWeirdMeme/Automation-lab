@@ -1,12 +1,15 @@
-1.I have on.
-2.Yes, the same pattern emerges.
-3.to set all the values to 0 expect for the  middle one
-4.look at code plsplpslpslslps
-5.mission accomplished
-6.
-7.
-8.
-9.
-10.
-11.
-12.
+26.I have on.
+27.Yes, the same pattern emerges.
+28.to set all the values to 0 expect for the  middle one
+29.look at code plsplpslpslslps
+30.mission accomplished
+31.If we change the next state to state the pattern goes diagonal and is not symetrical.
+becaus it mixes up the old values with new ones
+32.Yes, you can and you do so by clearing the old values 
+so it can do the calculations it is an improvement to the previous code because is resources
+are limited you it is the only way to do so.
+33.
+34.
+35.
+36.
+37.
