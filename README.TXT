@@ -14,3 +14,4 @@ are limited you it is the only way to do so.
 36.problem with that is it goes outofBounds by hitting the edge and trying to calculate instead just make it so when it hits an
 "edge" it assumes it is 0.
 37.not sure how to answer this...
+38. look in code took a whjile
